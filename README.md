@@ -6,9 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferferq" alt="ferferq" /> </p>
 
  - 🔭 I’m currently working on at Conecto Sistemas
- - 🌱 I’m currently learning CSS, HTML, JAVASCRTPT and REACTJS. only in first moments, but I would like learn about backend. 
+ - 🌱 I’m currently learning CSS, HTML, JAVASCRTPT and REACTJS. Only in first moments, but I would like learn about backend. 
  - 👯 I can help you with informations about C language.
  - 📫 How to reach me **fernandoalvesq@gmail.com**
+
+<img src="https://github-readme-stats.vercel.app/api?username=ferferq&show_icons=true" alt="fereferq"/> 
 
 <!--
 **ferferq/ferferq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
