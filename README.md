@@ -2,7 +2,6 @@
 
 <h3 align="center">A Electronic Engineer that started with C language to microcontrollers and now I'm learning new languages to computes.</h3>
 <h3 align="center">This can be a big change, but not for me. I'm working with C language to computes since jan/2020</h3>
-<h3 align="center">I know how use API's, JSON structs, pointers, arrays and other things</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferferq" alt="ferferq" /> </p>
 
  - 🔭 I’m currently working on at Conecto Sistemas
