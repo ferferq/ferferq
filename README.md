@@ -10,7 +10,7 @@
 
 
  - 🔭 I work at Conecto Sistemas since jan/2020.
- - 🌱 I’m currently learning React Native, but I would like learn about NodeJs. 
+ - 🌱 I’m currently learning NodeJS, but I would like learn about React Native. 
  - 💬 Ask me about `[C language, CSS, HTML, JAVASCRTPT and REACTJS]`
  - 😄 Pronouns: Him/His
  - 📫 How to reach me [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fernando-alves-martins-788390131/) <a href = "mailto:fernandoalvesq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
