@@ -1,7 +1,5 @@
 
-<h1 align="center"> Hello 👋 I'm Fernando Alves.</h1>
-
-<p align="center"><img src="https://s.yimg.com/ny/api/res/1.2/8evi7iTadU2h7toy2pFF8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/pt-br/canal_tech_990/32e2e79cb01a2d286b347dddfe7328ef" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" /></p>
+<h1 align="center"><img width="200px" src="https://s.yimg.com/ny/api/res/1.2/8evi7iTadU2h7toy2pFF8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/pt-br/canal_tech_990/32e2e79cb01a2d286b347dddfe7328ef" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" />Hello 👋 I'm Fernando Alves<img width="200px" src="https://s.yimg.com/ny/api/res/1.2/8evi7iTadU2h7toy2pFF8A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MA--/https://media.zenfs.com/pt-br/canal_tech_990/32e2e79cb01a2d286b347dddfe7328ef" alt="All rights reserved to Pixel Jeff (https://www.behance.net/pixeljeff)" /></h1>
 
 <h3 align="center">A Electronic Engineer that started with C language to microcontrollers and now I'm learning new languages to computes.</h3>
 <h3 align="center">This can be a big change, but not for me. I'm working with C language to computes since jan/2020 and now I'm working with ReactJs at Conecto Sistemas</h3>
