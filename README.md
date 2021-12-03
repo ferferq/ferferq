@@ -13,8 +13,11 @@
  - 😄 Pronouns: Him/His
  - ⚡ You can find out more about my story on LinkedIn's About [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fernando-alves-martins-788390131/)
  - 📫 How to reach me <a href = "mailto:fernandoalvesq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
+ 
+ 
+ `
+Programação em C, HTML, CSS, Sass, Jquery, Bootstrap, Estrutura e gerenciamento de dados, Programação orientada a objetos, JavaScript e DOM, React com typescript, Webpack, Babel,  Next (SSR e SSG), Components, Styled-Components, Hook, Context, axios (Stripe, firebase, FaunaDB, next-auth), API REST (NEXT), Auth/Permissões, React-Form, React-Query, Yup, Chackra Ui,  Testes com Jest e test library, Performance e deploy, NodeJS, Middlewares, typescript, como utilizar Debug, SOLID, Singleton Pattern, trabalhar com Streams, Swagger, conteitos basicos de Docker e Docker Compose, banco de dados com o ORM (TypeORM) .
+ `
 
 <img src="https://github-readme-stats.vercel.app/api?username=ferferq&show_icons=true" alt="fereferq"/> 
 
