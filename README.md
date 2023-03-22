@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferferq" alt="ferferq" /> </p>
 
  - 🔭 I work at Agile Conent since jan/2022.
- - 🌱 I’m currently learning Design Patterns, architecture, clean code, Solid, TDD and test units. 
- - 💬 Ask me about `[C language, CSS, HTML, JAVASCRTPT, REACTJS and NEXTJS]`
+ - 🌱 I’m currently learning Serveless. 
  - 😄 Pronouns: Him/His
  - ⚡ You can find out more about my story on LinkedIn's About [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fernando-alves-martins-788390131/)
  - 📫 How to reach me <a href = "mailto:fernandoalvesq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
