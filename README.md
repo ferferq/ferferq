@@ -13,7 +13,11 @@
  - 📫 How to reach me <a href = "mailto:fernandoalvesq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  - 👯 TAGS:
  `
-Programação em C, JavaScript, HTML, CSS, Sass, Jquery, Bootstrap, Estrutura e gerenciamento de dados, POO(Programação orientada a objetos), manipular DOM, React, typescript, Webpack, Babel,  Next (SSR e SSG), Components, Styled-Components, Hook, Context, axios (Stripe, firebase, FaunaDB, next-auth), API REST (NEXT), Auth/Permissões, React-Form, React-Query, Yup, Chackra Ui,  Testes com Jest e test library, Performance e deploy, NodeJS, express, arquitetura feita com conceitos do SOLID, node streams, Swagger, debugar aplicação, conceitos básicos de Docker e Docker Compose, banco de dados Postgres com o ORM (TypeORM), CI/CD com GitActions, criação de domínio e configurações necessárias (Route 53), criação de uma EC2, utilização de micro serviços S3, SES, DynamoDB, serviço serveless com lambda na aws, Design Patterns - GoF
+Front-end: React, Nextjs, Typescript, JavaScript, SEO, Semantica, Acessibilidade(Radix), Analise de performance, Google Analytics, Context, Redux, Designer System, HTML, CSS, Sass, , Styled-Components, Stiches, Webpack, Vite, Babel, Jquery, Bootstrap, manipular DOM, Hooks, NextAuth, React-Form, React-Query, Yup, Zoo, Chackra Ui, Arquitetura MVVM e Clean Code.
+BackEnd: NodeJS, Typescript, Serveless, Micro-serviços, Monorepo, Express, ORM (TypeORM, Sequelize), Redis, Redshift, Postgress, MySql, DynamoDB.
+Testes: Jest, Test library, Enzime, Mocha, Robot e cypress.
+Devops: CI/CD com travis ou gitActions, CLI, ECR, ECS,  EC2, S3, SQS, lambda, CloudFront, CloudFormation, CloudWatch, X-ray, ParameterStore, Redis, Redishift, Route 53, IAM.
+Documents: StoryBook, Tsdoc, Swagger e Docusaurus.
  `
 
 <img src="https://github-readme-stats.vercel.app/api?username=ferferq&show_icons=true" alt="fereferq"/> 
